@@ -90,6 +90,6 @@ Outcomes & Learnings
     •	Learned how customer analytics can improve sales strategy, retention, and business growth.
   
 Screenshot of the dashboard
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Suhas9797/Customer-Analysis-Dashboard/blob/main/Screenshot%20of%20the%20dashboard.png)
    
 
